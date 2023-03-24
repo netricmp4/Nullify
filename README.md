@@ -1,10 +1,8 @@
 <h1 align="center">Nullify</h1>
 <h3 align="center">The BEST i-Ready hack.</h3>
-<p align="center">By <a href="https://github.com/wang-fr">wang-fr</a>, <a href="https://github.com/proxyplu">proxyplu</a>, <a href="https://github.com/TonicGaro">TonicGaro</a>, and <a href="https://github.com/flowingsalt">flowingsalt</a>.
-<h2 align="center"><a href="https://discord.gg/nullify">Nullify Discord</a></h2>
-
+<p align="center">By <a href="https://github.com/wang-fr">netricmp4</a>,<a href="https://discord.gg/uxvCBwqRtV">Nullify Discord</a></h2>
 <p align="center">
-        <a href="https://discord.gg/nullify">
+        <a href="https://discord.gg/uxvCBwqRtV">
 	       <img src="https://img.shields.io/discord/1075550021291872307?label=discord&logo=discord">
         </a>
 </p>
@@ -59,6 +57,6 @@ We could but really our main focus is i-Ready exploits. There is plenty of explo
 <h2 align="center">Misc</h2>
 
 <p align="center">
-Credits to cupiditys, and wang for originally making this, (but some deleted their repo).<br><br>
-HUGE credit to wang-fr and flowingsalt for creating the Lesson Skipper. This hack wouldn't be as great as it is without their help.<br><br>
-Nullify is under the GNU General Public License v3.0. Learn more <a href="https://github.com/notplu/Nullify/blob/main/LICENSE">here</a>.</p>
+Credits to Kevin, and Davion for originally making this, (but some deleted their repo).<br><br>
+HUGE credit to Kevin and Shane for creating the Lesson Skipper. This hack wouldn't be as great as it is without their help.<br><br>
+Nullify is under the GNU General Public License v3.0.
